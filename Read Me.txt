@@ -1,0 +1,15 @@
+Consider read file How To Use Program.pdf before you go any further.
+File Attached(in Project): KruskalInDelaunayTriangulatio.html (Javascript) //Open it using webbrowser.
+
+
+To launch the Project go and open:
+	Floyd-Warsall_Kruskal_GraphTherapy\\{filename}.sln	//open with Visual Studio.
+Then Press Run debug program, Done!
+
+Alternative Launch (.exe):
+
+	go to: Floyd-Warshall_Kruskal_GraphTherapy\Winform_Floyd-Warshall_Kruskal\bin\Debug\netcoreapp3.
+	
+In there you will see the file name Floyd_Warshall_Kruskal_GraphTherapy.exe, the Project was already built, you can just open and launch it!
+
+
